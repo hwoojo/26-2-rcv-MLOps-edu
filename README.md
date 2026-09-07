@@ -1,7 +1,9 @@
 # 26-2-rcv-MLOps-edu
  2026 2학기 RCV MLOps 기초 교육
 
-## 
+## 강의 노트
+강의 내용 필기 노트
+- [Missing Semester](https://github.com/hwoojo/26-2-rcv-MLOps-edu/tree/main/missing-semester)
 
 ## 일정
 | 주차 | 교육 | 자료 |
