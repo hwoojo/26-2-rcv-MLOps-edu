@@ -8,3 +8,5 @@
   - [Chapter 3. Development Environment and Tools](https://github.com/hwoojo/26-2-rcv-MLOps-edu/blob/main/missing-semester/Chapter%203.%20Development%20Environment%20and%20Tools.md)
   - [Chapter 4. Debugging and Profiling](https://github.com/hwoojo/26-2-rcv-MLOps-edu/blob/main/missing-semester/Chapter%204.%20Debugging%20and%20Profiling.md)
   - [Chapter 5. Version Control and Git](https://github.com/hwoojo/26-2-rcv-MLOps-edu/blob/main/missing-semester/Chapter%205.%20Version%20Control%20and%20Git.md)
+  - [Chapter 6. Packaging and Shipping Code](https://github.com/hwoojo/26-2-rcv-MLOps-edu/blob/main/missing-semester/Chapter%206.%20Packaging%20and%20Shipping%20Code.md)
+  - [Chapter 7. Agentic Coding](https://github.com/hwoojo/26-2-rcv-MLOps-edu/blob/main/missing-semester/Chapter%207.%20Agentic%20Coding.md) 
