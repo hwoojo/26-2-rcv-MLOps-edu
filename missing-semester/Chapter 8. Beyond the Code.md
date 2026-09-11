@@ -199,7 +199,8 @@ AI를 이용하면서 분명 학습하는 것도 있을 거임. 하지만 동시
 [How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/)
 
 # How to ask good questions
-![[Pasted image 20260909204734.png]]
+<img width="792" height="612" alt="image" src="https://github.com/user-attachments/assets/9e378090-2f6e-4ad5-ba27-2cde3c7926cd" />
+
 1. 알맞은 시간을 찾아라
 2. 내가 아는 것을 말해라 
 3. 구체적으로 답할 수 있는 질문을 던져라
