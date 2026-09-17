@@ -5,6 +5,12 @@
 강의 내용 필기 노트
 - [Missing Semester](https://github.com/hwoojo/26-2-rcv-MLOps-edu/tree/main/missing-semester)
 
+###  Git / GitHub
+- [Git 탐구](https://github.com/hwoojo/26-2-rcv-MLOps-edu/blob/main/git-study/Git%20%ED%83%90%EA%B5%AC.md)
+
+### 기초 파이썬
+- [변수와 데이터타입](https://github.com/hwoojo/26-2-rcv-MLOps-edu/blob/main/basic-python/%EB%B3%80%EC%88%98%EC%99%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85.md)
+
 ## 일정
 | 주차 | 교육 | 자료 |
 | :---: | :---: | :---: |
