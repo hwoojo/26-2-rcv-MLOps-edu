@@ -2,12 +2,12 @@
  2026 2학기 RCV MLOps 기초 교육
 
 ## 강의 노트
-### 강의 내용 필기 노트
+### Missing Semester
 - [Missing Semester](https://github.com/hwoojo/26-2-rcv-MLOps-edu/tree/main/missing-semester)
 
 ###  Git / GitHub
 - [Git 탐구](https://github.com/hwoojo/26-2-rcv-MLOps-edu/blob/main/git-study/Git%20%ED%83%90%EA%B5%AC.md)
-
+- [협업에서의 Git](https://github.com/hwoojo/26-2-rcv-MLOps-edu/blob/main/git-study/%ED%98%91%EC%97%85%EC%97%90%EC%84%9C%EC%9D%98%20Git.md)
 ### 기초 파이썬
 - [Part 2&3. 변수와 데이터타입 & 자료구조](https://github.com/hwoojo/26-2-rcv-MLOps-edu/blob/main/basic-python/%EB%B3%80%EC%88%98%EC%99%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85.md)
 - [Part 4. 흐름제어](https://github.com/hwoojo/26-2-rcv-MLOps-edu/blob/main/basic-python/Part%204.%20%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4.md)
