@@ -1,24 +1,23 @@
 # 객체지향 프로그래밍 코드임!
+from abc import ABC, abstractmethod
 
 
-class Person:
-    def __init__(self, name, age):
+class Person(ABC):
+    def __init__(self, name, age, job=None):
         self.name = name
-        self.age = age
+        self.__age = age
+        self.job = job
+
+    @abstractmethod
+    def introduce(self):
+        pass
 
     def hello(self):
-        print(f"hello, {self.name}")
+        print(f"Hello, I'm {self.name}, {self.__age} years old.")
 
     def update_age(self, age):
         if age < 0:
             raise ValueError("나이는 음수일 수 없습니다.")
         else:
-            self.age = age
-            print(f"Now I'm {self.age} years old!")
-
-
-if __name__ == "__main__":
-    man = Person("John", 30)
-    man.hello()
-    man.update_age(31)
-    man.update_age(-1)  # 이러면 ValueError 출력
+            self.__age = age
+            print(f"Now I'm {self.__age} years old!")
