@@ -13,6 +13,8 @@
 - [Part 4. 흐름제어](https://github.com/hwoojo/26-2-rcv-MLOps-edu/blob/main/basic-python/Part%204.%20%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4.md)
 - [Part 5. 함수와 모듈](https://github.com/hwoojo/26-2-rcv-MLOps-edu/blob/main/basic-python/Part%205.%20%ED%95%A8%EC%88%98%EC%99%80%20%EB%AA%A8%EB%93%88.md)
 - [Part 6. 객체지향 프로그래밍](https://github.com/hwoojo/26-2-rcv-MLOps-edu/blob/main/basic-python/Part%206.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
+- [Part 7. 알고리즘](https://github.com/hwoojo/26-2-rcv-MLOps-edu/blob/main/basic-python/Part%207.%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
+- [Part 8. 정규표현식](https://github.com/hwoojo/26-2-rcv-MLOps-edu/blob/main/basic-python/Part%208.%20%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D.md)
 ## 일정
 | 주차 | 교육 | 자료 |
 | :---: | :---: | :---: |
